@@ -5,7 +5,7 @@ excerpt: >-
   jiffy!
 hidden: false
 ---
-THIS IS A CHANGE FROM INTERNAL TO README AND EXTERNAL
+THIS IS A CHANGE FROM EXTERNAL TO README AND INTERNAL
 Welcome to ReadMe! :owlbert:
 ============================
 
